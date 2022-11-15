@@ -6,6 +6,9 @@ There are a couple of ways to import images into StreamingImageSequencePlayableA
 1. [Setting the folder via inspector](#setting-the-folder-via-inspector)
 1. [Using StreamingImageSequence script for Adobe After Effects](#using-streamingimagesequence-script-for-adobe-after-effects)
 
+## support image format
+png/exr/tga
+
 ## Folder Drag and Drop to the track
 
 This is done by doing drag and drop of the sequential images folder to the StreamingImageSequenceTrack.
